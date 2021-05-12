@@ -1,0 +1,61 @@
+[2021-03-23_14:18:25] - Socket creation succeeded.
+[2021-03-23_14:18:25] - Bind to port 5236 successful.
+[2021-03-23_14:18:25] - Started listening on port 5236
+[2021-03-23_14:18:32] - A new connection has been received
+[2021-03-23_14:18:32] - Providing service instance - 7 for the new connection
+[2021-03-23_14:18:56] - user5 has logged in.
+[2021-03-23_14:19:25] - A new connection has been received
+[2021-03-23_14:19:25] - Providing service instance - 8 for the new connection
+[2021-03-23_14:19:41] - user3 has logged in.
+[2021-03-23_14:19:44] - user3 - LIST
+[2021-03-23_14:20:01] - user3 - POST request in CHAR mode
+[2021-03-23_14:20:01] - user3 - POST t1.txt Operation succeeded.
+[2021-03-23_14:20:34] - user5 - LIST
+[2021-03-23_14:21:05] - user5 - POST request in CHAR mode
+[2021-03-23_14:21:06] - user5 - POST labrec.mp4 Operation succeeded.
+[2021-03-23_14:22:00] - user5 has closed its connection to the file service - 7
+[2021-03-23_14:22:04] - A new connection has been received
+[2021-03-23_14:22:04] - Providing service instance - 9 for the new connection
+[2021-03-23_14:22:12] - user5 has logged in.
+[2021-03-23_14:22:14] - user5 - LIST
+[2021-03-23_14:22:22] - user5 - DELETE labrec.mp4 Operation succeeded.
+[2021-03-23_14:22:32] - user5 - POST request in CHAR mode
+[2021-03-23_14:22:32] - user5 - POST labrec.mp4 Operation succeeded.
+[2021-03-23_14:23:07] - user5 has closed its connection to the file service - 9
+[2021-03-23_14:23:17] - user3 - POST request in CHAR mode
+[2021-03-23_14:23:17] - user3 - POST labrec.mp4 Operation succeeded.
+[2021-03-23_14:23:45] - user3 - POST request in CHAR mode
+[2021-03-23_14:23:45] - user3 - POST a.jpg Operation succeeded.
+[2021-03-23_14:24:03] - A new connection has been received
+[2021-03-23_14:24:03] - Providing service instance - 7 for the new connection
+[2021-03-23_14:24:09] - user5 has logged in.
+[2021-03-23_14:24:21] - user5 - POST labrec.mp4 , file already exists
+[2021-03-23_14:24:31] - user5 - PATCH request in BIN mode
+[2021-03-23_14:24:31] - user5 - PATCH labrec.mp4 Operation succeeded.
+[2021-03-23_14:25:25] - user5 has closed its connection to the file service - 7
+[2021-03-23_14:25:29] - user3 has closed its connection to the file service - 8
+[2021-03-23_14:26:02] - A new connection has been received
+[2021-03-23_14:26:02] - Providing service instance - 9 for the new connection
+[2021-03-23_14:26:17] - user2 has logged in.
+[2021-03-23_14:26:19] - user2 - LIST
+[2021-03-23_14:26:40] - user2 - POST request in CHAR mode
+[2021-03-23_14:26:40] - user2 - POST labrec.mp4 Operation succeeded.
+[2021-03-23_14:26:53] - user2 - PATCH request in BIN mode
+[2021-03-23_14:27:53] - A new connection has been received
+[2021-03-23_14:27:53] - Providing service instance - 7 for the new connection
+[2021-03-23_14:28:00] - user2 has logged in.
+[2021-03-23_14:28:03] - user2 - LIST
+[2021-03-23_14:28:14] - user2 - DELETE labrec.mp4 , File in use, deletion aborted
+[2021-03-23_14:28:25] - user2 has closed its connection to the file service - 7
+[2021-03-23_14:29:10] - A new connection has been received
+[2021-03-23_14:29:10] - Providing service instance - 10 for the new connection
+[2021-03-23_14:29:21] - user4 has logged in.
+[2021-03-23_14:29:24] - user4 - LIST
+[2021-03-23_14:29:33] - user4 - DELETE omni.epub Operation succeeded.
+[2021-03-23_14:29:36] - user4 - LIST
+[2021-03-23_14:29:52] - user4 - POST request in BIN mode
+[2021-03-23_14:29:53] - user4 - POST labrec.mp4 Operation succeeded.
+[2021-03-23_14:31:20] - user4 - POST request in BIN mode
+[2021-03-23_14:31:20] - user4 - POST a.pdf Operation succeeded.
+[2021-03-23_14:31:44] - user4 - LIST
+[2021-03-23_14:32:03] - user4 has closed its connection to the file service - 10
